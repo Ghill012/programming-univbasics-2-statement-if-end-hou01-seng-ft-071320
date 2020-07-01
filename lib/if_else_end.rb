@@ -6,13 +6,3 @@ if current_time.even?
 else
   puts "odd!"
 end
-
-current_time = current_time.now
-current_time = current_time.to_i
-
-if current_time % 2==0
-   puts "Even!"
- else
-   puts "odd!"
- end
-   
