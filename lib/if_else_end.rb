@@ -4,5 +4,5 @@ current_time = current_time.to_i
 if current_time.odd?
   puts "Even!"
 else
-  puts "even!"
+  puts "odd!"
 end
